@@ -12,7 +12,10 @@ Text Domain: swp-acf-cp
 Domain Path: /lang
 */
 
-
+/**
+ * Hack by ptesei : Fix css for compability with WordPress 5.5
+ * File modified : assets/css/inpi.css, assets/css/inpi.min.css
+ */
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
